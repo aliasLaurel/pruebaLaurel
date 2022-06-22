@@ -44,9 +44,7 @@ social:
   link: https://github.com/yabellini
 superuser: false
 user_groups:
-- Ex Equipo Coordinador
-- Colaboradores
-- Alumni
+- Ex Colaboradores
 ---
 
 En resumen:
